@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://alhadi.carrd.co/#next](https://alhadi.carrd.co/#next)
+- 👨‍💻 All of my projects are available at [https://evm0x.carrd.co/](https://evm0x.carrd.co/)
 
 - 💬 Ask me about **Web3 , Defi , NFT ,Desktop**
 
