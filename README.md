@@ -1,7 +1,9 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimRVRR9YCbRuh5smzSl2pNALi0YdxMjDdKzNYlwwyyIUwkPVW9dPnUoslyvM6iwHNgmeolh455sMdx2CwTnO5b7wyMJ3wFh7zrJEDXdJaaJ1ipBMwfvEEvAPiiH8G6jLnpRxs4Pk7Z3bZvKZe4GncvDLORL-ODWwRUKkLdR8RWj5LNx5zPnb4Sqk1qePVO/s640/Proyek%20tanpa%20judul.gif)](https://alhadi.carrd.co/#next)
-<h1 align="center">Hi 👋, I'm EVM0x CHAIN</h1>
+<div align="center">I'm EVM CHAIN, an Enthusiast of Web3 Program</div>
+
+
 <h3 align="center">A passionate frontend developer from Turkeϒ</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+
+<img align="center" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evm0x&label=Profile%20views&color=0e75b6&style=flat" alt="evm0x" /> </p>
 
@@ -13,11 +15,11 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [(https://evm0x.carrd.co/](https://github.com/EVM0x))
+- 👨‍💻 All of my projects are available at [https://github.com/EVM0x]
 
 - 💬 Ask me about **Web3, Defi, NFT, Desktop**
 
-- 📫 How to reach me **lusianasakib966@gmail.com**
+- 📫 How to reach me **https://mirror.xyz/0xd6D30dCFc7C0d1193c41B997660105FE8B91b73d*
 
 - ⚡ Fun fact **If I can't, I have to try**
 
