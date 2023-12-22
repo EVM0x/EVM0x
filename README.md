@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://github.com/EVM0x]
+- 👨‍💻 All of my projects are available at [Github Profilinator](https://github.com/evm0x) 
 
 - 💬 Ask me about **Web3, Defi, NFT, Desktop**
 
