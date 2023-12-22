@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://evm0x.carrd.co/](https://evm0x.carrd.co/)
+- 👨‍💻 All of my projects are available at [(https://evm0x.carrd.co/](https://github.com/EVM0x))
 
-- 💬 Ask me about **Web3 , Defi , NFT ,Desktop**
+- 💬 Ask me about **Web3, Defi, NFT, Desktop**
 
 - 📫 How to reach me **lusianasakib966@gmail.com**
 
