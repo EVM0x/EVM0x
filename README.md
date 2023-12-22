@@ -1,13 +1,10 @@
-<div align="center">I'm EVM CHAIN, an Enthusiast of Web3 Program</div>
 
-
-<h3 align="center">A passionate frontend developer from Turkeϒ</h3>
+<h3 align="center">I'm EVM CHAIN, an Enthusiast of Web3 Program🔥</h3>
 
 <img align="center" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evm0x&label=Profile%20views&color=0e75b6&style=flat" alt="evm0x" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evm0x" alt="evm0x" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/evm0xstark" target="blank"><img src="https://img.shields.io/twitter/follow/evm0xstark?logo=twitter&style=for-the-badge" alt="evm0xstark" /></a> </p>
 
@@ -67,8 +64,4 @@
 </div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evm0x&show_icons=true&locale=en&layout=compact" alt="evm0x" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evm0x&show_icons=true&locale=en" alt="evm0x" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evm0x&" alt="evm0x" /></p>
