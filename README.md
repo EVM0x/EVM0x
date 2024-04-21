@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/evm0xstark" target="blank"><img src="https://img.shields.io/twitter/follow/evm0xstark?logo=twitter&style=for-the-badge" alt="evm0xstark" /></a> </p>
 
-- 🔭 I’m currently working on **Mina Protocol**
+- 🔭 I’m currently working on **Monad ⨀**
 
 - 🌱 I’m currently learning **React Native**
 
