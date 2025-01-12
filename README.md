@@ -18,7 +18,7 @@
 
 - 📫 How to reach me [EVM0x](https://mirror.xyz/0xd6D30dCFc7C0d1193c41B997660105FE8B91b73d) 
 
-- ⚡ Fun fact **If I can't, I have to try**
+- 💜 Fun fact **esforzándose al máximo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
