@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [Github Enthusiast](https://github.com/evm0x) 
+- 👨‍💻 All of my projects are available at [Github Enthusiast](https://github.com/evm0x](https://github.com/EVM0x?tab=repositories)) 
 
-- 💬 Ask me about **Web3, Defi, NFT, Desktop**
+- 💬 Ask me about **Web3, Defi, NFT, Crypto**
 
 - 📫 How to reach me [EVM0x](https://mirror.xyz/0xd6D30dCFc7C0d1193c41B997660105FE8B91b73d) 
 
