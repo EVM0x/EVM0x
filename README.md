@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/evm0xstark" target="blank"><img src="https://img.shields.io/twitter/follow/evm0xstark?logo=twitter&style=for-the-badge" alt="evm0xstark" /></a> </p>
 
-- 🔭 I’m currently working on **Monad ⨀**
+- 🔭 I’m currently working on [Monad ⨀](https://www.monad.xyz/)
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [Github Enthusiast](https://github.com/evm0x](https://github.com/EVM0x?tab=repositories)) 
+- 👨‍💻 All of my projects are available at [Github Enthusiast](https://github.com/evm0x](https://github.com/EVM0x?tab=repositories)](https://github.com/EVM0x/04-zkapp-browser-ui)) 
 
 - 💬 Ask me about **Web3, Defi, NFT, Crypto**
 
