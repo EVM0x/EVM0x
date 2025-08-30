@@ -1,5 +1,5 @@
 
-<h3 align="center">I'm EVM CHAIN, an Enthusiast of Web3 Program🔥</h3>
+<h3 align="center">I'm EVM0x, an Enthusiast of Web3 Program🔥</h3>
 
 <img align="center" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/evm0xstark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="evm0xstark" height="30" width="40" /></a>
+<a href="https://twitter.com/evm0x_nads" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="evm0xstark" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC9w-RlNak09uLfPJyvcSj4g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="evm0x chain" height="30" width="40" /></a>
 <a href="https://discord.gg/RXRg84X9qm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="evm0x" height="30" width="40" /></a>
 </p>
