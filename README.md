@@ -12,7 +12,7 @@
 
 - 🌱 Shitposter since 1969
 
-- 👨‍💻 All of my projects are available at [Github Enthusiast](https://github.com/evm0x](https://github.com/EVM0x?tab=repositories)](https://github.com/EVM0x/04-zkapp-browser-ui)) 
+- 👨‍💻 All of my projects are available at [Github Enthusiast](https://github.com/EVM0x?tab=repositories)]
 
 - 💬 Ask me about **Web3, Defi, NFT, Crypto**
 
