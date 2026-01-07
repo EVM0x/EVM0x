@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evm0x&label=Profile%20views&color=0e75b6&style=flat" alt="evm0x" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/evm0x_nads" target="blank"><img src="https://img.shields.io/twitter/follow/evm0x_nads?logo=twitter&style=for-the-badge" alt="evm0xstark" /></a> </p>
+<p align="left"> <a href="https://twitter.com/3vm0x" target="blank"><img src="https://img.shields.io/twitter/follow/3vm0x?logo=twitter&style=for-the-badge" alt="evm0xstark" /></a> </p>
 
 - 🔭 I’m currently working on [spaceX](https://www.spacex.com/)
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/evm0x_nads" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="evm0xstark" height="30" width="40" /></a>
+<a href="https://twitter.com/3vm0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="evm0xstark" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC9w-RlNak09uLfPJyvcSj4g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="evm0x chain" height="30" width="40" /></a>
 <a href="https://discord.gg/RXRg84X9qm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="evm0x" height="30" width="40" /></a>
 </p>
