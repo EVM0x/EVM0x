@@ -1,5 +1,5 @@
 
-<h3 align="center">I'm EVM0x, an Enthusiast of Web3 Program🔥</h3>
+<h3 align="center">I'm EVM0x, sp since 1969🔥</h3>
 
 <img align="center" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
@@ -14,11 +14,11 @@
 
 - 👨‍💻 All of my projects are available at [Github Enthusiast](https://github.com/EVM0x?tab=repositories)
 
-- 💬 Ask me about **Web3, Defi, NFT, Crypto**
+- 💬 Ask me about **blablabla**
 
 - 📫 How to reach me [EVM0x](https://mirror.xyz/0xd6D30dCFc7C0d1193c41B997660105FE8B91b73d) 
 
-- 💜 Fun fact **esforzándose al máximo**
+- 💜 Fun fact ***. .- - --..-- ... .-.. . . .--. / -.-- .- .--. / ... .-.. . . .--. --..-- . .- - / -.-- .- .--. / ... .... .. - .--. --- ... - . .-. / ... .. -. -.-. . / .---- ----. -.... ----.***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
