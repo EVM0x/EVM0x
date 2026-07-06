@@ -1,4 +1,4 @@
-<h1 align="center">⛓️ EVM0x</h1>
+<h1 align="center">EVM0x</h1>
 <h3 align="center">web3 dev | ♠️ poker bot engineer | 🤖 AI agent builder</h3>
 
 <p align="center">
@@ -20,7 +20,12 @@
 
 ### 🛠️ Stack
 
-`Solidity` `Python` `Web3.py` `Foundry` `Ethers.js` `Node.js`
+| Category | Tools |
+|----------|-------|
+| Smart Contracts | `Solidity` `Foundry` `Hardhat` |
+| Backend | `Python` `Web3.py` `Node.js` |
+| Frontend | `React` `Ethers.js` `Tailwind` |
+| AI / Bots | `Python` `OpenAI` `Arena SDK` |
 
 ### 📂 Featured
 
