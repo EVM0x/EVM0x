@@ -31,8 +31,12 @@
 
 | Project | Description |
 |:--------|:------------|
-| [poker-bot](https://github.com/EVM0x/poker-bot) | AI poker bots for arena.dev.fun |
-| [04-zkapp-browser-ui](https://github.com/EVM0x/04-zkapp-browser-ui) | zkApp browser interface |
+| [poker-bot](https://github.com/EVM0x/poker-bot) | ♠️ AI poker bots for arena.dev.fun |
+| [04-zkapp-browser-ui](https://github.com/EVM0x/04-zkapp-browser-ui) | ⭐ zkApp browser interface (10★) |
+| [Owshen-Network](https://github.com/EVM0x/Owshen-Network) | 🔐 Owshen Network Tutorial (4★) |
+| [github-script](https://github.com/EVM0x/github-script) | ⚡ GitHub Actions scripting |
+| [OpenAgents](https://github.com/EVM0x/OpenAgents) | 🤖 AI Agent Orchestration Protocol |
+| [BEVM-Testnet-Fullnode](https://github.com/EVM0x/BEVM-Testnet-Fullnode) | 🖥️ BEVM Testnet Fullnode (3★) |
 
 ### 📊 GitHub Stats
 
