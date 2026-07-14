@@ -44,6 +44,6 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=EVM0x&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=EVM0x&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EVM0x&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EVM0x&theme=dark" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EVM0x&theme=dark" height="150" />
 </p>
