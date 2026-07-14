@@ -44,6 +44,4 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=EVM0x&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150" />
   </a>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EVM0x&theme=dark" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EVM0x&theme=dark" height="150" />
 </p>
