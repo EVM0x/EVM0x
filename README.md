@@ -16,6 +16,7 @@
 | ♠️ Poker AI | [arena.dev.fun](https://arena.dev.fun) — HU Ladder S1 + Playground S6 |
 | ⛓️ Smart Contracts | EVM development, auditing, gas optimization |
 | 🤖 AI Agents | Autonomous agents for gaming, DeFi, automation |
+| 🏆 Arena Tournament | [kuru.io](https://arena.kuru.io) — THE SNIPER agent, $100K bracket |
 
 ### 🛠️ Stack
 
