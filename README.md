@@ -31,6 +31,7 @@
 
 | Project | Description |
 |:--------|:------------|
+| [splitmon](https://github.com/EVM0x/splitmon) | 🪙 Onchain bill splitter on Monad — Spark Hackathon submission |
 | [poker-bot](https://github.com/EVM0x/poker-bot) | ♠️ AI poker bots for arena.dev.fun |
 | [04-zkapp-browser-ui](https://github.com/EVM0x/04-zkapp-browser-ui) | ⭐ zkApp browser interface (10★) |
 | [Owshen-Network](https://github.com/EVM0x/Owshen-Network) | 🔐 Owshen Network Tutorial (4★) |
