@@ -1,5 +1,5 @@
 <h1 align="center">EVM0x</h1>
-<h3 align="center">web3 dev | ♠️ poker bot engineer | 🤖 AI agent builder</h3>
+<h3 align="center">Web3 Dev |  Bot Engineer |  AI Agent Builder</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=evm0x&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
