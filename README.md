@@ -42,6 +42,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=EVM0x&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=EVM0x&layout=compact&theme=dark&hide_border=true" height="150" />
+</p>
+
+<p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=EVM0x&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150" />
   </a>
