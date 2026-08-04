@@ -42,8 +42,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://lines-often-providing-travesti.trycloudflare.com/api?username=EVM0x&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://lines-often-providing-travesti.trycloudflare.com/api/top-langs/?username=EVM0x&layout=compact&theme=dark&hide_border=true" height="150" />
+  <img src="https://sender-question-independently-courtesy.trycloudflare.com/api?username=EVM0x&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
+  <img src="https://sender-question-independently-courtesy.trycloudflare.com/api/top-langs/?username=EVM0x&layout=compact&theme=dark&hide_border=true" height="150" />
 </p>
 
 <p align="center">
