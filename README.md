@@ -42,8 +42,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://drives-glasgow-earl-glass.trycloudflare.com/api?username=EVM0x&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://drives-glasgow-earl-glass.trycloudflare.com/api/top-langs/?username=EVM0x&layout=compact&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-teal-chi-86.vercel.app/api?username=EVM0x&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats-teal-chi-86.vercel.app/api/top-langs/?username=EVM0x&layout=compact&theme=dark&hide_border=true" height="150" />
 </p>
 
 <p align="center">
