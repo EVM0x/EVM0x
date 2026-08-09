@@ -1,0 +1,32 @@
+# === SECURITY: NEVER commit these ===
+# Env & secrets
+.env
+.env.*
+!.env.example
+!.env.sample
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+
+# Wallet / crypto
+**/keystore*
+**/*keystore*/
+**/UTC--*
+**/*-UTC-*
+seed*
+mnemonic*
+*.gpg
+*.asc
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Deploy configs that may hold keys
+*.tfvars
+*.tfvars.json
+config/local.json
