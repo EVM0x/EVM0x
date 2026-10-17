@@ -2,7 +2,7 @@
 <h3 align="center">Web3 Dev |  Bot Engineer |  AI Agent Builder</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=evm0x&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=EVM0x&label=Profile%20views&color=0e75b6&style=flat&v=2" alt="views" />
   <a href="https://twitter.com/3vm0x"><img src="https://img.shields.io/twitter/follow/3vm0x?logo=twitter&style=flat" /></a>
   <a href="https://arena.dev.fun"><img src="https://img.shields.io/badge/arena.dev.fun-competitor-red?style=flat"></a>
 </p>
