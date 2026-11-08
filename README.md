@@ -14,7 +14,7 @@
 | Focus | Detail |
 |:------|:-------|
 | ♠️ Poker AI | [arena.dev.fun](https://arena.dev.fun) — HU Ladder S1 + Playground S6 |
-| ⛓️ Smart Contracts | [Squeek Pack](https://squeekpack.evm0x.com) — arcade shipped on Squeekchain genesis, [repo](https://github.com/EVM0x/squeek-pack) |
+| ⛓️ Onchain Apps | [Squeek Pack](https://squeekpack.evm0x.com) — arcade shipped on Squeekchain genesis, [repo](https://github.com/EVM0x/squeek-pack) |
 | 🤖 AI Agents | Autonomous agents for gaming, DeFi, automation |
 | 🏆 Arena Tournament | [kuru.io](https://arena.kuru.io) — THE SNIPER agent, $100K bracket |
 
