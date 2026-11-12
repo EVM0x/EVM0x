@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="119.63"
+          width="119.64"
           height="8"
           fill="#e34c26"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="119.63"
+          x="119.64"
           y="0"
-          width="52.24"
+          width="52.25"
           height="8"
           fill="#f1e05a"
         />
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="171.87"
+          x="171.89"
           y="0"
-          width="26.79"
+          width="26.77"
           height="8"
           fill="#3572A5"
         />
@@ -170,7 +170,7 @@
           data-testid="lang-progress"
           x="221"
           y="0"
-          width="20.8"
+          width="20.81"
           height="8"
           fill="#663399"
         />
@@ -178,7 +178,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="241.8"
+          x="241.81"
           y="0"
           width="15.309999999999999"
           height="8"
@@ -188,7 +188,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="247.11"
+          x="247.12"
           y="0"
           width="12.84"
           height="8"
@@ -198,7 +198,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.95000000000002"
+          x="249.96"
           y="0"
           width="10.04"
           height="8"
@@ -211,7 +211,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 47.85%
+        HTML 47.86%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
@@ -225,7 +225,7 @@
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 10.72%
+        Python 10.71%
       </text>
     </g>
   </g><g transform="translate(0, 75)">
