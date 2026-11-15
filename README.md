@@ -1,5 +1,8 @@
-<h1 align="center">EVM0x</h1>
-<h3 align="center">Web3 Dev |  Bot Engineer |  AI Agent Builder</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img src="./assets/hero-light.svg" width="1120" alt="Terminal window: evm0x@localhost running ./whoami, showing a pixel wordmark EVM0x, the line Web3 dev / bot engineer / AI agent builder, and a field list - role, focus on autonomous agents and onchain apps, chains EVM / BSC / Base / Monad / Solana, stack Python / TypeScript / Solidity / Foundry / MCP, shipped Squeek Pack, splitmon, poker-bot, now Arena Kuru THE SNIPER, 31 public repos and 35 stars.">
+</picture>
 
 <p align="center">
   <img src="https://hits.sh/github.com/EVM0x.svg?label=Profile%20views&color=0e75b6" alt="views" />
@@ -7,7 +10,20 @@
   <a href="https://arena.dev.fun"><img src="https://img.shields.io/badge/arena.dev.fun-competitor-red?style=flat"></a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+<details>
+<summary>About / text version</summary>
+
+Hey, I'm **EVM0x** - Web3 dev, bot engineer, AI agent builder. I ship autonomous agents that touch real money, then prove them onchain.
+
+- **Focus:** autonomous agents, onchain apps, trading bots.
+- **Chains:** EVM, BSC, Base, Monad, Solana.
+- **Stack:** Python, TypeScript, Solidity, Foundry, MCP.
+- **Shipped:** [Squeek Pack](https://squeekpack.evm0x.com), [splitmon](https://github.com/EVM0x/splitmon), [poker-bot](https://github.com/EVM0x/poker-bot).
+- **Now:** [Arena Kuru](https://arena.kuru.io) - THE SNIPER.
+
+*Every block is a clue.*
+
+</details>
 
 ### 🎯 Current Focus
 

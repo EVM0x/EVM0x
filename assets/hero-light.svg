@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="600" viewBox="0 0 1120 600" role="img" aria-labelledby="t d">
+<title id="t">EVM0x - terminal hero</title>
+<desc id="d">Terminal window reading evm0x@localhost ./whoami, then a pixel wordmark EVM0x with the line Web3 dev, bot engineer, AI agent builder. A field list reads: name EVM0x; role Web3 dev, bot engineer and AI agent builder; focus autonomous agents, onchain apps and trading bots; chains EVM, BSC, Base, Monad, Solana; stack Python, TypeScript, Solidity, Foundry, MCP; shipped Squeek Pack, splitmon, poker-bot; now Arena Kuru THE SNIPER; 31 public repos and 35 stars. Footer: every block is a clue.</desc>
+<style>text{font-family:'JetBrains Mono','Roboto Mono','DejaVu Sans Mono','Liberation Mono',ui-monospace,monospace;white-space:pre}</style>
+<defs>
+<linearGradient id="wm" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1a7f37"/><stop offset="0.6" stop-color="#1a7f37"/><stop offset="1" stop-color="#0969da"/></linearGradient>
+</defs>
+<rect x="0.5" y="0.5" width="1119" height="599" rx="14" fill="#ffffff" stroke="#d0d7de"/>
+<path d="M0.5 46 V14.5 A14 14 0 0 1 14.5 0.5 H1105.5 A14 14 0 0 1 1119.5 14.5 V46 Z" fill="#f6f8fa"/>
+<line x1="0.5" y1="46" x2="1119.5" y2="46" stroke="#d0d7de"/>
+<circle cx="26" cy="23" r="5.5" fill="#ff5f56"/>
+<circle cx="46" cy="23" r="5.5" fill="#ffbd2e"/>
+<circle cx="66" cy="23" r="5.5" fill="#27c93f"/>
+<text x="96" y="28" font-size="13.5" fill="#57606a">evm0x@localhost: ~/agents</text>
+<text x="1096" y="28" font-size="12.5" fill="#6e7781" text-anchor="end">bash - 120x40</text>
+<text x="52" y="92" font-size="17" fill="#1a7f37">evm0x@localhost:~$</text>
+<text x="246" y="92" font-size="17" fill="#1f2328">./whoami</text>
+<rect x="337" y="79" width="9.5" height="17" fill="#1a7f37" opacity="0.9"/>
+<rect x="52.0" y="122.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="64.5" y="122.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="77.0" y="122.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="89.5" y="122.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="102.0" y="122.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="52.0" y="134.5" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="52.0" y="147.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="52.0" y="159.5" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="64.5" y="159.5" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="77.0" y="159.5" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="89.5" y="159.5" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="52.0" y="172.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="52.0" y="184.5" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="52.0" y="197.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="64.5" y="197.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="77.0" y="197.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="89.5" y="197.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="102.0" y="197.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="127.0" y="122.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="177.0" y="122.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="127.0" y="134.5" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="177.0" y="134.5" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="127.0" y="147.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="177.0" y="147.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="127.0" y="159.5" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="177.0" y="159.5" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="127.0" y="172.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="177.0" y="172.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="139.5" y="184.5" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="164.5" y="184.5" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="152.0" y="197.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="202.0" y="122.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="252.0" y="122.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="202.0" y="134.5" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="214.5" y="134.5" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="239.5" y="134.5" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="252.0" y="134.5" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="202.0" y="147.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="227.0" y="147.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="252.0" y="147.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="202.0" y="159.5" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="227.0" y="159.5" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="252.0" y="159.5" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="202.0" y="172.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="252.0" y="172.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="202.0" y="184.5" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="252.0" y="184.5" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="202.0" y="197.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="252.0" y="197.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="289.5" y="122.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="302.0" y="122.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="314.5" y="122.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="277.0" y="134.5" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="327.0" y="134.5" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="277.0" y="147.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="314.5" y="147.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="327.0" y="147.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="277.0" y="159.5" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="302.0" y="159.5" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="327.0" y="159.5" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="277.0" y="172.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="289.5" y="172.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="327.0" y="172.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="277.0" y="184.5" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="327.0" y="184.5" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="289.5" y="197.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="302.0" y="197.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="314.5" y="197.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="352.0" y="147.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="402.0" y="147.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="364.5" y="159.5" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="389.5" y="159.5" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="377.0" y="172.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="364.5" y="184.5" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="389.5" y="184.5" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="352.0" y="197.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<rect x="402.0" y="197.0" width="12.5" height="12.5" rx="2.25" fill="url(#wm)"/>
+<text x="52" y="241.5" font-size="14.5" fill="#0969da">Web3 dev / bot engineer / AI agent builder</text>
+<text x="52" y="267.5" font-size="13" fill="#57606a">agents that touch real money.</text>
+<text x="52" y="329.5" font-size="14" fill="#1a7f37">$ ls ~/projects</text>
+<text x="52" y="359.5" font-size="13.5" fill="#1f2328">squeek-pack  splitmon  poker-bot  dhorse</text>
+<text x="52" y="389.5" font-size="14" fill="#1a7f37">$ cat now.txt</text>
+<text x="52" y="419.5" font-size="13.5" fill="#9a6700">Arena Kuru - THE SNIPER</text>
+<line x1="432" y1="118" x2="432" y2="514" stroke="#d0d7de"/>
+<text x="470" y="150" font-size="14.5" fill="#57606a">Name</text>
+<text x="566" y="150" font-size="14.5" fill="#1f2328">EVM0x</text>
+<text x="470" y="188" font-size="14.5" fill="#57606a">Role</text>
+<text x="566" y="188" font-size="14.5" fill="#1f2328">Web3 dev / bot engineer / AI agent builder</text>
+<text x="470" y="226" font-size="14.5" fill="#57606a">Focus</text>
+<text x="566" y="226" font-size="14.5" fill="#1f2328">autonomous agents, onchain apps, trading bots</text>
+<text x="470" y="264" font-size="14.5" fill="#57606a">Chains</text>
+<text x="566" y="264" font-size="14.5" fill="#1f2328">EVM / BSC / Base / Monad / Solana</text>
+<text x="470" y="302" font-size="14.5" fill="#57606a">Stack</text>
+<text x="566" y="302" font-size="14.5" fill="#1f2328">Python / TS / Solidity / Foundry / MCP</text>
+<text x="470" y="340" font-size="14.5" fill="#57606a">Shipped</text>
+<text x="566" y="340" font-size="14.5" fill="#1f2328">Squeek Pack - splitmon - poker-bot</text>
+<text x="470" y="378" font-size="14.5" fill="#57606a">Now</text>
+<text x="566" y="378" font-size="14.5" fill="#1f2328">Arena Kuru - THE SNIPER</text>
+<text x="470" y="416" font-size="14.5" fill="#57606a">GitHub</text>
+<text x="566" y="416" font-size="14.5" fill="#1f2328">31 public repos / 35 stars</text>
+<text x="470" y="454" font-size="14.5" fill="#57606a">Synced</text>
+<text x="566" y="454" font-size="14.5" fill="#1f2328">2026-11-16 UTC</text>
+<line x1="52" y1="538" x2="1068" y2="538" stroke="#d0d7de"/>
+<text x="52" y="570" font-size="14" fill="#1a7f37">Every block is a clue.</text>
+<text x="1068" y="570" font-size="13" fill="#6e7781" text-anchor="end">github.com/EVM0x</text>
+</svg>
