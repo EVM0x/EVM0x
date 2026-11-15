@@ -49,3 +49,13 @@
     <img src="https://streak-stats.demolab.com/?user=EVM0x&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150" />
   </a>
 </p>
+
+### 🐍 Snake eats my contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EVM0x/EVM0x/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EVM0x/EVM0x/output/snake.svg" />
+    <img alt="Snake animation eating EVM0x contribution graph" src="https://raw.githubusercontent.com/EVM0x/EVM0x/output/snake.svg" />
+  </picture>
+</p>
