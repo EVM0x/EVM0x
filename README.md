@@ -25,6 +25,8 @@ Hey, I'm **EVM0x** - Web3 dev, bot engineer, AI agent builder. I ship autonomous
 
 </details>
 
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+
 ### 🎯 Current Focus
 
 | Focus | Detail |
