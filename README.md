@@ -18,6 +18,18 @@
 | 🤖 AI Agents | Autonomous agents for gaming, DeFi, automation |
 | 🏆 Arena Tournament | [kuru.io](https://arena.kuru.io) — THE SNIPER agent, $100K bracket |
 
+### 📂 Featured
+
+| Project | Description |
+|:--------|:------------|
+| [splitmon](https://github.com/EVM0x/splitmon) | 🪙 Onchain bill splitter on Monad — Spark Hackathon submission |
+| [poker-bot](https://github.com/EVM0x/poker-bot) | ♠️ AI poker bots for arena.dev.fun |
+| [04-zkapp-browser-ui](https://github.com/EVM0x/04-zkapp-browser-ui) | ⭐ zkApp browser interface (10★) |
+| [Owshen-Network](https://github.com/EVM0x/Owshen-Network) | 🔐 Owshen Network Tutorial (4★) |
+| [github-script](https://github.com/EVM0x/github-script) | ⚡ GitHub Actions scripting |
+| [OpenAgents](https://github.com/EVM0x/OpenAgents) | 🤖 AI Agent Orchestration Protocol |
+| [BEVM-Testnet-Fullnode](https://github.com/EVM0x/BEVM-Testnet-Fullnode) | 🖥️ BEVM Testnet Fullnode (3★) |
+
 ### 🛠️ Stack
 
 <div align="center">
@@ -43,18 +55,6 @@
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624) ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED) ![Nginx](https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=009639) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF) ![Cloudflare](https://img.shields.io/badge/Cloudflare-0D1117?style=for-the-badge&logo=cloudflare&logoColor=F38020)
 
 </div>
-
-### 📂 Featured
-
-| Project | Description |
-|:--------|:------------|
-| [splitmon](https://github.com/EVM0x/splitmon) | 🪙 Onchain bill splitter on Monad — Spark Hackathon submission |
-| [poker-bot](https://github.com/EVM0x/poker-bot) | ♠️ AI poker bots for arena.dev.fun |
-| [04-zkapp-browser-ui](https://github.com/EVM0x/04-zkapp-browser-ui) | ⭐ zkApp browser interface (10★) |
-| [Owshen-Network](https://github.com/EVM0x/Owshen-Network) | 🔐 Owshen Network Tutorial (4★) |
-| [github-script](https://github.com/EVM0x/github-script) | ⚡ GitHub Actions scripting |
-| [OpenAgents](https://github.com/EVM0x/OpenAgents) | 🤖 AI Agent Orchestration Protocol |
-| [BEVM-Testnet-Fullnode](https://github.com/EVM0x/BEVM-Testnet-Fullnode) | 🖥️ BEVM Testnet Fullnode (3★) |
 
 ### 📊 GitHub Stats
 
