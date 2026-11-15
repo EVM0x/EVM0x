@@ -20,12 +20,29 @@
 
 ### 🛠️ Stack
 
-| Category | Tools |
-|:---------|:------|
-| ⛓️ Smart Contracts | ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white) ![Foundry](https://img.shields.io/badge/Foundry-363636?style=flat) ![Hardhat](https://img.shields.io/badge/Hardhat-FEF05C?style=flat) |
-| 🐍 Backend | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Web3.py](https://img.shields.io/badge/Web3.py-F16822?style=flat&logo=ethereum&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) |
-| 🎨 Frontend | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat&logo=ethereum&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) |
-| 🤖 AI / Bots | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Arena](https://img.shields.io/badge/Arena-FF0000?style=flat) |
+<div align="center">
+
+**Languages & runtimes**
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=4584B6) ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6) ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-0D1117?style=for-the-badge&logo=solidity&logoColor=FFFFFF) ![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25) ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+
+**Web3 & onchain**
+
+![Foundry](https://img.shields.io/badge/Foundry-0D1117?style=for-the-badge&logoColor=FFFFFF) ![Hardhat](https://img.shields.io/badge/Hardhat-0D1117?style=for-the-badge&logoColor=FEF05C) ![ethers.js](https://img.shields.io/badge/ethers.js-0D1117?style=for-the-badge&logo=ethers&logoColor=FFFFFF) ![Web3.py](https://img.shields.io/badge/Web3.py-0D1117?style=for-the-badge&logo=ethereum&logoColor=F16822) ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-0D1117?style=for-the-badge&logo=openzeppelin&logoColor=4E5EE4) ![Monad](https://img.shields.io/badge/Monad-0D1117?style=for-the-badge&logoColor=836EF9)
+
+**AI agents & tooling**
+
+![[OI]](https://img.shields.io/badge/%5BOI%5D-0D1117?style=for-the-badge&logoColor=FFFFFF) ![Anthropic](https://img.shields.io/badge/Anthropic-0D1117?style=for-the-badge&logo=anthropic&logoColor=D97757) ![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=2DD4BF) ![MCP](https://img.shields.io/badge/MCP-0D1117?style=for-the-badge&logo=modelcontextprotocol&logoColor=FFFFFF) ![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=FFFFFF) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFE667)
+
+**Frontend & backend**
+
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF) ![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4) ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1) ![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D) ![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=3BAFDD)
+
+**Infra & ops**
+
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624) ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED) ![Nginx](https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=009639) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF) ![Cloudflare](https://img.shields.io/badge/Cloudflare-0D1117?style=for-the-badge&logo=cloudflare&logoColor=F38020)
+
+</div>
 
 ### 📂 Featured
 
