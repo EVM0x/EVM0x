@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1120" height="650" viewBox="0 0 1120 650" role="img" aria-labelledby="title desc">
 <title id="title">EVM0x / terminal alter ego</title>
-<desc id="desc">A black terminal card. A binary-rain portrait of the EVM0x avatar, drawn from 0 and 1 characters in a red ramp from deep maroon to salmon, sits in the left column and periodically dissolves into the number 69 before reforming. To its right, a red prompt reads evm0x@localhost:~$ ./whoami, followed by a dotted field list: role Web3 dev, bot engineer and AI agent builder; focus autonomous agents, onchain apps and trading bots; shipped Squeek Pack, splitmon, poker-bot; next Arena Kuru THE SNIPER; code Python, TypeScript, Solidity, Bash; low level EVM bytecode and calldata decoding; chain tools Foundry, Hardhat, ethers, web3.py; bot tools Python async, Playwright, Telegram; LLMs [OI], Anthropic, Ollama; agent frameworks LangChain and MCP; protocols MCP servers, x402, ERC-8004; runtime systemd, Docker, cron, tailscale; platforms EVM, BSC, Base, Monad, Solana; practice live agents; notes KTL DAO; 31 public repos and 35 stars, checked 2026-11-16 UTC. Footer: Every block is a clue.</desc>
+<desc id="desc">A black terminal card. A binary-rain portrait of the EVM0x avatar, drawn from 0 and 1 characters in a red ramp from deep maroon to salmon, sits in the left column and periodically dissolves into the number 69 before reforming. To its right, a red prompt reads evm0x@localhost:~$ ./whoami, followed by a dotted field list of red labels and salmon values: role Web3 dev, bot engineer and AI agent builder; focus autonomous agents, onchain apps and trading bots; shipped Squeek Pack, splitmon, poker-bot; next Arena Kuru THE SNIPER; code Python, TypeScript, Solidity, Bash; low level EVM bytecode and calldata decoding; chain tools Foundry, Hardhat, ethers, web3.py; bot tools Python async, Playwright, Telegram; LLMs [OI], Anthropic, Ollama; agent frameworks LangChain and MCP; protocols MCP servers, x402, ERC-8004; runtime systemd, Docker, cron, tailscale; platforms EVM, BSC, Base, Monad, Solana; practice live agents; notes KTL DAO; 31 public repos and 35 stars, checked 2026-11-16 UTC. Footer: Every block is a clue.</desc>
 <style>text{font-family:'Roboto Mono','DejaVu Sans Mono','Liberation Mono','Courier New',monospace;white-space:pre}</style>
 <rect x=".5" y=".5" width="1119" height="649" rx="12" fill="#ffffff" stroke="#dbb7b8"/>
 <g transform="translate(23 34)">
@@ -6087,58 +6087,58 @@
 <text x="685.0" y="42" fill="#800004" font-size="17" font-weight="700" class="cursor">_</text>
 <path d="M393 61h704" stroke="#dbb7b8" stroke-dasharray="2 5"/>
 <text x="393" y="91" fill="#800004" font-size="15">Role:</text>
-<text x="1097" y="91" fill="#1e1e1e" font-size="15" text-anchor="end">Web3 dev / bot engineer / AI agent builder</text>
+<text x="1097" y="91" fill="#3a0f11" font-size="15" text-anchor="end">Web3 dev / bot engineer / AI agent builder</text>
 <path d="M447.2 86H708.7" stroke="#dbb7b8" stroke-dasharray="2 5"/>
 <text x="393" y="113" fill="#800004" font-size="15">Focus:</text>
-<text x="1097" y="113" fill="#1e1e1e" font-size="15" text-anchor="end">Autonomous agents / onchain apps / trading bots</text>
+<text x="1097" y="113" fill="#3a0f11" font-size="15" text-anchor="end">Autonomous agents / onchain apps / trading bots</text>
 <path d="M456.2 108H663.5" stroke="#dbb7b8" stroke-dasharray="2 5"/>
 <text x="393" y="135" fill="#800004" font-size="15">Shipped:</text>
-<text x="1097" y="135" fill="#1e1e1e" font-size="15" text-anchor="end">Squeek Pack / splitmon / poker-bot</text>
+<text x="1097" y="135" fill="#3a0f11" font-size="15" text-anchor="end">Squeek Pack / splitmon / poker-bot</text>
 <path d="M474.2 130H780.9" stroke="#dbb7b8" stroke-dasharray="2 5"/>
 <text x="393" y="157" fill="#800004" font-size="15">Next:</text>
-<text x="1097" y="157" fill="#1e1e1e" font-size="15" text-anchor="end">Arena Kuru / THE SNIPER</text>
+<text x="1097" y="157" fill="#3a0f11" font-size="15" text-anchor="end">Arena Kuru / THE SNIPER</text>
 <path d="M447.2 152H880.3" stroke="#dbb7b8" stroke-dasharray="2 5"/>
 <text x="393" y="199" fill="#800004" font-size="15">Languages.Code:</text>
-<text x="1097" y="199" fill="#1e1e1e" font-size="15" text-anchor="end">Python / TypeScript / Solidity / Bash</text>
+<text x="1097" y="199" fill="#3a0f11" font-size="15" text-anchor="end">Python / TypeScript / Solidity / Bash</text>
 <path d="M537.5 194H753.8" stroke="#dbb7b8" stroke-dasharray="2 5"/>
 <text x="393" y="221" fill="#800004" font-size="15">Languages.LowLevel:</text>
-<text x="1097" y="221" fill="#1e1e1e" font-size="15" text-anchor="end">EVM bytecode / calldata decoding</text>
+<text x="1097" y="221" fill="#3a0f11" font-size="15" text-anchor="end">EVM bytecode / calldata decoding</text>
 <path d="M573.6 216H799.0" stroke="#dbb7b8" stroke-dasharray="2 5"/>
 <text x="393" y="243" fill="#800004" font-size="15">Tools.Chain:</text>
-<text x="1097" y="243" fill="#1e1e1e" font-size="15" text-anchor="end">Foundry / Hardhat / ethers / web3.py</text>
+<text x="1097" y="243" fill="#3a0f11" font-size="15" text-anchor="end">Foundry / Hardhat / ethers / web3.py</text>
 <path d="M510.4 238H762.9" stroke="#dbb7b8" stroke-dasharray="2 5"/>
 <text x="393" y="265" fill="#800004" font-size="15">Tools.Bot:</text>
-<text x="1097" y="265" fill="#1e1e1e" font-size="15" text-anchor="end">Python async / Playwright / Telegram</text>
+<text x="1097" y="265" fill="#3a0f11" font-size="15" text-anchor="end">Python async / Playwright / Telegram</text>
 <path d="M492.3 260H762.9" stroke="#dbb7b8" stroke-dasharray="2 5"/>
 <text x="393" y="307" fill="#800004" font-size="15">Agents.LLM:</text>
-<text x="1097" y="307" fill="#1e1e1e" font-size="15" text-anchor="end">[OI] / Anthropic / Ollama / local models</text>
+<text x="1097" y="307" fill="#3a0f11" font-size="15" text-anchor="end">[OI] / Anthropic / Ollama / local models</text>
 <path d="M501.3 302H726.8" stroke="#dbb7b8" stroke-dasharray="2 5"/>
 <text x="393" y="329" fill="#800004" font-size="15">Agents.Framework:</text>
-<text x="1097" y="329" fill="#1e1e1e" font-size="15" text-anchor="end">LangChain / MCP / custom agent loops</text>
+<text x="1097" y="329" fill="#3a0f11" font-size="15" text-anchor="end">LangChain / MCP / custom agent loops</text>
 <path d="M555.5 324H762.9" stroke="#dbb7b8" stroke-dasharray="2 5"/>
 <text x="393" y="351" fill="#800004" font-size="15">Agents.Protocol:</text>
-<text x="1097" y="351" fill="#1e1e1e" font-size="15" text-anchor="end">MCP servers / x402 / ERC-8004</text>
+<text x="1097" y="351" fill="#3a0f11" font-size="15" text-anchor="end">MCP servers / x402 / ERC-8004</text>
 <path d="M546.5 346H826.1" stroke="#dbb7b8" stroke-dasharray="2 5"/>
 <text x="393" y="373" fill="#800004" font-size="15">Agents.Runtime:</text>
-<text x="1097" y="373" fill="#1e1e1e" font-size="15" text-anchor="end">systemd / Docker / cron / tailscale</text>
+<text x="1097" y="373" fill="#3a0f11" font-size="15" text-anchor="end">systemd / Docker / cron / tailscale</text>
 <path d="M537.5 368H771.9" stroke="#dbb7b8" stroke-dasharray="2 5"/>
 <text x="393" y="415" fill="#800004" font-size="15">Platforms:</text>
-<text x="1097" y="415" fill="#1e1e1e" font-size="15" text-anchor="end">EVM / BSC / Base / Monad / Solana</text>
+<text x="1097" y="415" fill="#3a0f11" font-size="15" text-anchor="end">EVM / BSC / Base / Monad / Solana</text>
 <path d="M492.3 410H790.0" stroke="#dbb7b8" stroke-dasharray="2 5"/>
 <text x="393" y="437" fill="#800004" font-size="15">Practice:</text>
-<text x="1097" y="437" fill="#1e1e1e" font-size="15" text-anchor="end">live agents / small size / real fills</text>
+<text x="1097" y="437" fill="#3a0f11" font-size="15" text-anchor="end">live agents / small size / real fills</text>
 <path d="M483.3 432H753.8" stroke="#dbb7b8" stroke-dasharray="2 5"/>
 <text x="393" y="459" fill="#800004" font-size="15">Notes:</text>
-<text x="1097" y="459" fill="#1e1e1e" font-size="15" text-anchor="end">KTL DAO / agents &amp; writeups</text>
+<text x="1097" y="459" fill="#3a0f11" font-size="15" text-anchor="end">KTL DAO / agents &amp; writeups</text>
 <path d="M456.2 454H844.2" stroke="#dbb7b8" stroke-dasharray="2 5"/>
 <text x="393" y="523" fill="#800004" font-size="15">GitHub.Public:</text>
-<text x="1097" y="523" fill="#1e1e1e" font-size="15" text-anchor="end">31 public repos / 35 stars</text>
+<text x="1097" y="523" fill="#3a0f11" font-size="15" text-anchor="end">31 public repos / 35 stars</text>
 <path d="M528.4 518H853.2" stroke="#dbb7b8" stroke-dasharray="2 5"/>
 <text x="393" y="545" fill="#800004" font-size="15">GitHub.Checked:</text>
-<text x="1097" y="545" fill="#1e1e1e" font-size="15" text-anchor="end">2026-11-16 UTC</text>
+<text x="1097" y="545" fill="#3a0f11" font-size="15" text-anchor="end">2026-11-16 UTC</text>
 <path d="M537.5 540H961.6" stroke="#dbb7b8" stroke-dasharray="2 5"/>
 <path d="M393 483h704" stroke="#dbb7b8" stroke-dasharray="2 5"/>
 <text x="393" y="583" fill="#800004" font-size="19" font-weight="700">Every block is a clue.</text>
-<text x="24" y="620" fill="#6b6b6b" font-size="12">EVM0x :: terminal alter ego</text>
-<text x="1097" y="620" fill="#6b6b6b" font-size="12" text-anchor="end">45 / 69 / 01000101</text>
+<text x="24" y="620" fill="#8f2a2f" font-size="12">EVM0x :: terminal alter ego</text>
+<text x="1097" y="620" fill="#8f2a2f" font-size="12" text-anchor="end">45 / 69 / 01000101</text>
 </svg>
