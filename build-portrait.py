@@ -46,22 +46,75 @@ def saliency_centre(grey):
            float((ys * w).sum() / w.sum() / sal.shape[0])
 
 
+def face_box(im):
+    """Find the face with YuNet (downloaded once); None if it cannot."""
+    import subprocess
+    import cv2
+    model = Path('/tmp/yunet.onnx')
+    if not model.exists():
+        subprocess.run(['curl', '-sL', '--max-time', '90', '-o', str(model),
+                        'https://github.com/opencv/opencv_zoo/raw/main/models/'
+                        'face_detection_yunet/face_detection_yunet_2023mar.onnx'],
+                       check=False)
+    if not model.exists():
+        return None
+    img = cv2.imread(str(im.filename)) if getattr(im, 'filename', None) else None
+    if img is None:
+        arr = np.asarray(im.convert('RGB'))[:, :, ::-1]
+        img = np.ascontiguousarray(arr)
+    h, w = img.shape[:2]
+    det = cv2.FaceDetectorYN.create(str(model), '', (w, h), 0.45, 0.3, 5000)
+    _, faces = det.detect(img)
+    if faces is None or len(faces) == 0:
+        return None
+    f = max(faces, key=lambda r: r[2] * r[3])
+    return float(f[0]), float(f[1]), float(f[2]), float(f[3]), float(f[-1])
+
+
+TARGET = (COLS * DX) / (ROWS * DY)      # 0.618, the portrait box aspect
+
+
 def crop(im):
-    """Crop the photo to the portrait aspect, centred on the salient subject."""
+    """Head-and-shoulders crop on the portrait aspect, centred on the face."""
     w, h = im.size
-    grey = np.asarray(im.convert('L'))
-    cx, cy = saliency_centre(grey)
-    cx = min(max(cx, 0.3), 0.7)
-    target = (COLS * DX) / (ROWS * DY)          # 0.618, taller than wide
-    if w / h > target:                           # too wide -> trim the sides
-        nw, nh = int(round(h * target)), h
-    else:                                        # too tall -> trim top/bottom
-        nw, nh = w, int(round(w / target))
-    x = int(round(cx * w - nw / 2))
-    y = int(round(cy * h - nh / 2))
+    box = face_box(im)
+    if box:
+        fx, fy, fw, fh, score = box
+        cx, cy = fx + fw / 2, fy + fh / 2
+        nw = int(round(min(max(fw * 3.1, 120), w)))
+        nh = int(round(nw / TARGET))
+        if nh > h:
+            nh, nw = h, int(round(h * TARGET))
+        x = int(round(cx - nw / 2))
+        y = int(round(cy + fh * 0.10 - nh * 0.42))
+        src = 'face %.2f' % score
+    else:
+        # no detectable face: a headshot is brightest at the face, so centre the
+        # crop on the bright pixels and zoom in on them
+        grey = np.asarray(im.convert('L'), dtype=np.float64)
+        top = grey >= np.percentile(grey, 98)
+        ys, xs = np.nonzero(top)
+        wgt = (grey[top] - np.median(grey)) ** 2
+        cx = float((xs * wgt).sum() / wgt.sum())
+        cy = float((ys * wgt).sum() / wgt.sum())
+        nw = int(round(0.48 * min(w, h)))
+        nh = int(round(nw / TARGET))
+        if nh > h:
+            nh, nw = h, int(round(h * TARGET))
+        x = int(round(cx - nw / 2))
+        y = int(round(cy - nh * 0.46))
+        src = 'bright-centroid'
     x = min(max(x, 0), w - nw)
     y = min(max(y, 0), h - nh)
-    return im.crop((x, y, x + nw, y + nh)), (x, y, nw, nh)
+    return im.crop((x, y, x + nw, y + nh)), (x, y, nw, nh), src
+
+
+def clahe(im, clip=3.0, tiles=8):
+    """Local contrast, so a dim photo still reads as a face in the glyph grid."""
+    import cv2
+    a = np.asarray(im.convert('L'))
+    eq = cv2.createCLAHE(clipLimit=clip, tileGridSize=(tiles, tiles)).apply(a)
+    return Image.fromarray(eq)
 
 
 def sample(im):
@@ -131,12 +184,29 @@ def glyphs(order, tone, theme):
 def main():
     src = Path(sys.argv[1] if len(sys.argv) > 1 else '/tmp/newpic.jpg')
     im = Image.open(src).convert('RGB')
-    cropped, box = crop(im)
-    print('source %dx%d -> crop %s (aspect %.3f)' % (im.size[0], im.size[1], box, box[2] / box[3]))
-    vals = sample(cropped)
+    im.filename = str(src)
+    cropped, box, how = crop(im)
+    print('source %dx%d -> crop %s (aspect %.3f) via %s'
+          % (im.size[0], im.size[1], box, box[2] / box[3], how))
+    enhanced = clahe(cropped)
+    enhanced.save('/tmp/portrait_crop.png')
+    vals = sample(enhanced)
+    # a backlit subject is darker than its surround; the card wants the subject
+    # bright on black, so invert when that is the case
+    hh, ww = vals.shape
+    centre = vals[hh // 4:hh * 3 // 4, ww // 4:ww * 3 // 4]
+    if centre.mean() < vals.mean():
+        vals = 1.0 - vals
+        print('inverted: subject was darker than the frame (backlit)')
+    # smooth the cell field: the reference portrait is all soft gradients, and a
+    # 57 x 76 grid is too coarse to carry per-cell photo noise
+    from scipy import ndimage
+    vals = ndimage.gaussian_filter(vals, 1.2)
+    # break exact ties, otherwise equal cells get tones in raster order and the
+    # grid shows flat diagonal banding
+    vals = vals + np.random.default_rng(7).uniform(0, 1e-6, vals.shape)
     print('cells: mean %.2f  p10 %.2f  p50 %.2f  p90 %.2f'
           % (vals.mean(), np.percentile(vals, 10), np.percentile(vals, 50), np.percentile(vals, 90)))
-    cropped.save('/tmp/portrait_crop.png')
     order, tone = cells(vals)
     for theme in ('dark', 'light'):
         g = glyphs(order, tone, theme)
