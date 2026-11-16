@@ -1,7 +1,8 @@
 <picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/hero-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="./assets/hero-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img src="./assets/hero-light.svg" width="1120" alt="Black terminal card: a binary-rain portrait of the EVM0x avatar drawn entirely from 0 and 1 characters at varying red levels, that periodically dissolves into the number 69, with a red prompt evm0x@localhost:~$ ./whoami and a dotted field list - role Web3 dev, bot engineer and AI agent builder; focus autonomous agents, onchain apps and trading bots; shipped Squeek Pack, splitmon, poker-bot; next Arena Kuru THE SNIPER; code Python, TypeScript, Solidity, Bash; low level EVM bytecode; chain tools Foundry, Hardhat, ethers, web3.py; bot tools Python async, Playwright, Telegram; LLMs, Anthropic, Ollama; frameworks LangChain, MCP; protocols MCP servers, x402, ERC-8004; runtime systemd, Docker, cron, tailscale; platforms EVM, BSC, Base, Monad, Solana; 31 public repos and 35 stars. Footer: Every block is a clue.">
+  <img src="./assets/hero-light.svg" width="1120" alt="Terminal card: a binary-rain portrait built from 3036 zero and one characters in a grey ramp, next to a lime prompt evm0x@localhost:~$ ./whoami and a dotted field list - role Web3 dev, bot engineer and AI agent builder; focus autonomous agents, onchain apps and trading bots; shipped Squeek Pack, splitmon, poker-bot; next Arena Kuru THE SNIPER; code Python, TypeScript, Solidity, Bash; low level EVM bytecode and calldata decoding; chain tools Foundry, Hardhat, ethers, web3.py; bot tools Python async, Playwright, Telegram; agents LLMs, Anthropic, Ollama, LangChain, MCP, x402, ERC-8004, systemd, Docker, cron, tailscale; platforms EVM, BSC, Base, Monad, Solana; 31 public repos and 35 stars. Footer: Every block is a clue.">
 </picture>
 
 <p align="center">
