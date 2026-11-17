@@ -78,8 +78,8 @@ Hey, I'm **EVM0x** - Web3 dev, bot engineer, AI agent builder. I ship autonomous
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/EVM0x/EVM0x@389ab6ca4e/assets/github-stats.svg" alt="EVM0x GitHub stats" height="150" />
-  <img src="https://cdn.jsdelivr.net/gh/EVM0x/EVM0x@389ab6ca4e/assets/top-langs.svg" alt="EVM0x most used languages" height="150" />
+  <img src="https://cdn.jsdelivr.net/gh/EVM0x/EVM0x@71ccfe9b42/assets/github-stats.svg" alt="EVM0x GitHub stats" height="150" />
+  <img src="https://cdn.jsdelivr.net/gh/EVM0x/EVM0x@71ccfe9b42/assets/top-langs.svg" alt="EVM0x most used languages" height="150" />
   <br/>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=EVM0x&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150" />
