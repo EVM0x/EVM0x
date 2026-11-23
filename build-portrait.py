@@ -95,8 +95,14 @@ def crop(im):
         top = grey >= np.percentile(grey, 98)
         ys, xs = np.nonzero(top)
         wgt = (grey[top] - np.median(grey)) ** 2
-        cx = float((xs * wgt).sum() / wgt.sum())
-        cy = float((ys * wgt).sum() / wgt.sum())
+        total = wgt.sum()
+        if total > 0:
+            cx = float((xs * wgt).sum() / total)
+            cy = float((ys * wgt).sum() / total)
+        else:
+            # a flat frame (solid background, blank scan) has no bright-pixel
+            # signal to centre on; fall back to the middle of the image
+            cx, cy = w / 2.0, h / 2.0
         nw = int(round(0.48 * min(w, h)))
         nh = int(round(nw / TARGET))
         if nh > h:
